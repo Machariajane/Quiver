@@ -1,62 +1,84 @@
 export default [
   {
-    title: "Keurig K-Duo",
+    title: "Accidents and Emergency",
     price: "$149.99",
     description:
-      "Use both ground coffee and k-cup pods. Multiple brew sizes: brew an 8, 10, or 12-cup carafe and an 237, 296, or 355ml (8, 10, or 12 oz. ) cup ",
+      "Fast ,efficient and available emergency services ",
     avatarUrl:
       "https://upload.wikimedia.org/wikipedia/commons/e/e0/Keurig_Logo.png",
     imageUrl:
-      "https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg"
+      "images_quiver/accident.jpeg"
   },
   {
-    title: "KRUPS Electric Spice",
+    title: "Conslatant and Doctor's Consulatation",
     price: "$19.99",
     description:
-      "Large grinding capacity yields ground coffee for up to 12 cups of coffee",
+      "Highly specialized and accredited  Medical proffessionals to answer and adbice on your medical issues",
     avatarUrl:
       "https://images-na.ssl-images-amazon.com/images/I/81CbxNLCHCL._AC_SL1500_.jpg",
     imageUrl:
-      "https://images-na.ssl-images-amazon.com/images/I/71FhMLBP9XL._AC_SL1500_.jpg"
+      "images_quiver/consultation.jpeg"
   },
   {
-    title: "Hamilton Beach Flexbrew",
+    title: "Laboratory Services",
     price: "$89.99",
     description:
-      "No two coffee drinkers are the same – so, the flexibility to customize how and what you brew is key. From fresh grounds to K-Cup pods, the Hamilton Beach FlexBrew 2-Way Coffee Maker gives you the options to please fans of all types of coffees.",
+      " We provide a comprehensive range of diagnostic testing and clinical and consultative service.",
     avatarUrl:
       "https://images-na.ssl-images-amazon.com/images/I/81mjh5ZSu1L._AC_SL1500_.jpg",
     imageUrl:
-      "https://images-na.ssl-images-amazon.com/images/I/818rz3CIaFL._AC_SL1500_.jpg"
+      "images_quiver/lab.jpeg"
   },
   {
-    title: "Secura French Press",
+    title: "Radiology and Imaging Services",
     price: "$36.48",
     description:
-      "3-layered Stainless steel filter traps the smallest coffee grounds to produce an exceptional full-bodied flavor, filter is easy to disassemble and clean.",
+      "X-Rays and Ultraasounds - including obstetric",
     avatarUrl:
       "https://images-na.ssl-images-amazon.com/images/I/61u76aiQQsL._AC_SL1000_.jpg",
     imageUrl:
-      "https://images-na.ssl-images-amazon.com/images/I/61XRMmXVwQL._AC_SL1500_.jpg"
+      "images_quiver/radiology.jpeg"
   },
   {
-    title: "Cafe Du Chateau French Press",
+    title: "Pharmacy Services",
     price: "$32.95",
     description:
-      "We use double stainless steel screen filters on a durable plunger supported by a spring loaded base plate to seal the edges, followed by a final top lid strainer to give you a pure brew with no grounds unlike other cheap presses.",
+      " The Pharmacy is well stocked with a wide range of quality generic and branded medicines",
     avatarUrl:
       "https://images-na.ssl-images-amazon.com/images/I/81BdxpiRtCL._AC_SL1500_.jpg",
     imageUrl:
-      "https://images-na.ssl-images-amazon.com/images/I/81luUhz7ZlL._AC_SL1500_.jpg"
+      "images_quiver/pharmacy.jpeg"
   },
   {
-    title: "LIVINGbasics Single Serve Coffee Maker ",
+    title: "Travel and Routine Vaccines ",
     price: "$37.99",
     description:
-      'Brew with a single serve k-cup pod or ground coffee. Less than 14 cm (5.5") wide slim design, its the perfect size for any space.',
+      ' hepatitis A, hepatitis B, typhoid, cholera, yellow fever, rabies, meningitis, polio, measles, Tdap (tetanus, diphtheria and pertussis), chickenpox, pneumonia and influenza.',
     avatarUrl:
       "https://images-na.ssl-images-amazon.com/images/I/61PGHBLkl8L._AC_SL1500_.jpg",
     imageUrl:
-      "https://images-na.ssl-images-amazon.com/images/I/61KBB8K1wDL._AC_SL1000_.jpg"
-  }
+      "images_quiver/travel_vaccine.jpeg"
+  },
+
+{
+  title: "PhysioTherapy Services",
+  price: "$149.99",
+  description:
+    "Manual Therapy,Back and Neck Rehabilitation ,Stroke ,Head Injusry and Neuro Rehabilitation ",
+  avatarUrl:
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Keurig_Logo.png",
+  imageUrl:
+    "images_quiver/physio.jpeg"
+},
+{
+  title: "Dental Clinic Services",
+  price: "$149.99",
+  description:
+    "Routine Dental Care,Totos corner (Paediatric dentistry),Cosmetic Dentistry,Teeth whitening,White fillings,Gum Health(Periodontics),Dental Implants,Braces for teeth alignment ",
+  avatarUrl:
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Keurig_Logo.png",
+  imageUrl:
+    "images_quiver/dental.jpeg"
+}
+
 ];
